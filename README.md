@@ -1,2 +1,2 @@
 # ToolUpdater
-Script to Update a binary regardless where its saved.
+Script to update one or multiple binaries regardless where they are saved.
